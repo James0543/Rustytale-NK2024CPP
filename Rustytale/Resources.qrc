@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/anime">
+        <file>anime/background.gif</file>
+        <file>anime/jacob.gif</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>audio/menu_bgm.wav</file>
+        <file>audio/pumpumpum.wav</file>
+        <file>audio/confirm.wav</file>
+        <file>audio/select.wav</file>
+        <file>audio/battle_bgm_1.wav</file>
+        <file>audio/text.wav</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>font/fzxs12.ttf</file>
+        <file>font/Mars Needs Cunnilingus.ttf</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>image/title.png</file>
+        <file>image/act.png</file>
+        <file>image/act_hover.png</file>
+        <file>image/item.png</file>
+        <file>image/item_hover.png</file>
+        <file>image/mercy.png</file>
+        <file>image/mercy_hover.png</file>
+        <file>image/fight.png</file>
+        <file>image/fight_hover.png</file>
+        <file>image/soul.png</file>
+        <file>image/target.png</file>
+        <file>image/bubble_1.png</file>
+        <file>image/bubble_2.png</file>
+    </qresource>
+    <qresource prefix="/style_sheet">
+        <file>style/btn_style_sheet.qss</file>
+        <file>style/btn_style_sheet2.qss</file>
+    </qresource>
+</RCC>
