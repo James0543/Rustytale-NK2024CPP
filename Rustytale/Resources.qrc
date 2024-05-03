@@ -1,0 +1,69 @@
+<RCC>
+    <qresource prefix="/anime">
+        <file>anime/background.gif</file>
+        <file>anime/jacob.gif</file>
+        <file>anime/jacob2.gif</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>audio/menu_bgm.wav</file>
+        <file>audio/pumpumpum.wav</file>
+        <file>audio/confirm.wav</file>
+        <file>audio/select.wav</file>
+        <file>audio/battle_bgm_1.wav</file>
+        <file>audio/text.wav</file>
+        <file>audio/hurt.wav</file>
+        <file>audio/fire.wav</file>
+        <file>audio/show.wav</file>
+        <file>audio/dia_sound.wav</file>
+        <file>audio/load.wav</file>
+        <file>audio/shoot.wav</file>
+        <file>audio/battlefall.wav</file>
+        <file>audio/heal.wav</file>
+        <file>audio/slice.wav</file>
+        <file>audio/noise.wav</file>
+        <file>audio/break.wav</file>
+        <file>audio/gameover.wav</file>
+        <file>audio/pieces.wav</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>font/fzxs12.ttf</file>
+        <file>font/Mars Needs Cunnilingus.ttf</file>
+        <file>font/fzjcxs.ttf</file>
+        <file>font/Determination Mono.ttf</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>image/title.png</file>
+        <file>image/act.png</file>
+        <file>image/act_hover.png</file>
+        <file>image/item.png</file>
+        <file>image/item_hover.png</file>
+        <file>image/mercy.png</file>
+        <file>image/mercy_hover.png</file>
+        <file>image/fight.png</file>
+        <file>image/fight_hover.png</file>
+        <file>image/soul.png</file>
+        <file>image/target.png</file>
+        <file>image/bubble.png</file>
+        <file>image/DB.png</file>
+        <file>image/db_fire.png</file>
+        <file>image/crosshair.png</file>
+        <file>image/shoot.png</file>
+        <file>image/sword.png</file>
+        <file>image/axe.png</file>
+        <file>image/axe2.png</file>
+        <file>image/slice0.png</file>
+        <file>image/slice1.png</file>
+        <file>image/slice2.png</file>
+        <file>image/slice3.png</file>
+        <file>image/slice4.png</file>
+        <file>image/slice5.png</file>
+        <file>image/title_fullscreen.png</file>
+        <file>image/miss.png</file>
+        <file>image/fail.png</file>
+        <file>image/heartbreak.png</file>
+    </qresource>
+    <qresource prefix="/style_sheet">
+        <file>style/btn_style_sheet.qss</file>
+        <file>style/btn_style_sheet2.qss</file>
+    </qresource>
+</RCC>
